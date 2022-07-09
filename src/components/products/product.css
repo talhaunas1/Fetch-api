@@ -1,0 +1,8 @@
+.prodcutdiv
+{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    /* background-color: aqua; */
+}
